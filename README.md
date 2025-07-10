@@ -72,7 +72,7 @@ In this study, we’re using [**Heart Disease Data**](https://www.kaggle.com/dat
     - Down: downsloping
 12. **HeartDisease**: Output class **1**: heart disease, **0**: Normal
 
-## <div style="color:rgb(0, 103, 71);display:fill;border-radius:5px;background-color:whie;letter-spacing:0.1px;overflow:hidden"><p style="padding:10px;color:rgb(0, 103, 71);overflow:hidden;margin:0;font-size:100%; text-align:center"><b id= '002'>Part 2 :</b> Data Prepaeration</p></div>
+## <div style="color:rgb(0, 103, 71);display:fill;border-radius:5px;background-color:whie;letter-spacing:0.1px;overflow:hidden"><p style="padding:10px;color:rgb(0, 103, 71);overflow:hidden;margin:0;font-size:100%; text-align:center"><b id= '002'>Part 2 :</b> Data Preparation</p></div>
 
 <h3 style="color:#EE2737FF">Data Loading Hands On</h3>
 
