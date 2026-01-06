@@ -907,7 +907,7 @@ It remains a practical choice for **resource-constrained clinical settings**.
 ---
 
 
-# Recommendations & Conclusion
+## <div style="color:rgb(0, 103, 71);display:fill;border-radius:5px;background-color:whie;letter-spacing:0.1px;overflow:hidden"><p style="padding:10px;color:rgb(0, 103, 71);overflow:hidden;margin:0;font-size:100%; text-align:center"><b id= '006'>Part 8 :</b> Recommendations & Conclusion</p></div>
 
 ## Key Recommendations
 
@@ -950,7 +950,7 @@ These signals are measurable, actionable, and detectable early.
 
 
 
-## <div style="color:rgb(0, 103, 71);display:fill;border-radius:5px;background-color:whie;letter-spacing:0.1px;overflow:hidden"><p style="padding:10px;color:rgb(0, 103, 71);overflow:hidden;margin:0;font-size:100%; text-align:center"><b id= '006'>Part 7 :</b> References</p></div>
+## <div style="color:rgb(0, 103, 71);display:fill;border-radius:5px;background-color:whie;letter-spacing:0.1px;overflow:hidden"><p style="padding:10px;color:rgb(0, 103, 71);overflow:hidden;margin:0;font-size:100%; text-align:center"><b id= '006'>Part 8 :</b> References</p></div>
 
 
 <h3 style="color:#EE2737FF">References</h3>
