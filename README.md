@@ -907,7 +907,7 @@ It remains a practical choice for **resource-constrained clinical settings**.
 ---
 
 
-## <div style="color:rgb(0, 103, 71);display:fill;border-radius:5px;background-color:whie;letter-spacing:0.1px;overflow:hidden"><p style="padding:10px;color:rgb(0, 103, 71);overflow:hidden;margin:0;font-size:100%; text-align:center"><b id= '006'>Part 8 :</b> Recommendations & Conclusion</p></div>
+## <div style="color:rgb(0, 103, 71);display:fill;border-radius:5px;background-color:whie;letter-spacing:0.1px;overflow:hidden"><p style="padding:10px;color:rgb(0, 103, 71);overflow:hidden;margin:0;font-size:100%; text-align:center"><b id= '006'>Part 7 :</b> Recommendations & Conclusion</p></div>
 
 ## Key Recommendations
 
